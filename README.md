@@ -1,4 +1,6 @@
 # credit-score-project-from-data-camp
+![credit_card](https://user-images.githubusercontent.com/36321124/84946246-d384c980-b101-11ea-8002-43ea162345f4.jpg)
+
 ## Description
 
 #### This project is about Commercial banks which receive a lot of applications for credit cards apprvals. Many application got rejected for different reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report.
