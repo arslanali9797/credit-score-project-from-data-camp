@@ -1,5 +1,6 @@
 # credit-score-project-from-data-camp
 Description
+
 this project is about Commercial banks  which receive a lot of applications for credit cards apprvals. Many application got rejected for different reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report.
 Manually analyzing these applications is real issue which lead to other issues like  error-prone, and time-consuming (we know thai time is money). 
 In this notebook, we will build an automatic credit card approval system using machine learning techniques.
